@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @FedynaCarlos
-- 👀 I’m interested  in ..apreder cosas nuevas  todo el tiempo
+- 👀 I’m interested  in news in new technologies
 - 🌱 I’m currently learning  SCRUM
-- 💞️ I’m looking to collaborate on ... proyectos nuevos
+- 💞️ I'm looking to collaborate on new challenges, leveraging my teamwork skills and a blend of both soft and hard skills. I believe in the power of collective effort to tackle complex projects and achieve 
+      meaningful results.
 - 📫 How to reach me :  +54-9-11-32712055 o jfedyna@outlook.com
 
 😎
