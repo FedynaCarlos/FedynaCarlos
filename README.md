@@ -21,14 +21,13 @@
 
 ### 🔍 Sobre mí
 
-- 👀 Me apasiona el desarrollo web full stack y las tecnologías emergentes.
-- 🌱 Actualmente profundizando conocimientos en SCRUM y metodologías ágiles.
-- 🤝 Busco colaborar en proyectos que me permitan aplicar tanto mis soft skills como mis habilidades técnicas.
-- 💬 Creo firmemente en el poder del trabajo en equipo para lograr soluciones eficientes y sostenibles.
-- 📞 Teléfono: +54-9-11-3271-2055
-
+👀 Me apasiona el desarrollo web full stack y seguir aprendiendo cada día.
+🌱 Actualmente profundizando conocimientos en SCRUM, metodologías ágiles y comunicación efectiva.
+🗣️ Valoro la escucha activa como base para construir relaciones de trabajo sólidas y colaborativas.
+🤝 Busco colaborar en proyectos donde pueda aplicar tanto mis soft skills como mis habilidades técnicas.
+💬 Creo firmemente en el poder del trabajo en equipo para lograr soluciones eficientes y sostenibles.
+📞 Teléfono: +54-9-11-3271-2055
 ---
-
 ### ⚙️ Tecnologías y herramientas
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -44,18 +43,20 @@
 
 ### 📜 Certificaciones
 
+- Desarrollador Web Full Stack - Digital House
 - Diseño Web: HTML y CSS – Digital House
 - Programación Imperativa con JavaScript – Digital House
+- JavaScript para el DOM - Digital House
+- Diseño UX/UI - Digital House
 - Learning Agility – Digital House
 - Metodologías Ágiles y SCRUM – Digital House
-
+- Herramientas Colaborativas de Trabajo - Digital HouseDigital Houseos de trabajo
+- Comunicación Efectiva en equ
+- React.js
 ---
 
 ### 🧠 En aprendizaje
-
-- SCRUM y metodologías ágiles
-- Mejora continua en desarrollo web y colaboración
-
+- Bases de Datos en MySQL
 ---
 
-> “Creo en la eficiencia, el aprendizaje constante y el poder de la colaboración.” – Paco
+> “Creo en la eficiencia, el aprendizaje constante y el poder de la colaboración.” 
