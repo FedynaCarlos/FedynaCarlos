@@ -1,3 +1,4 @@
+</pag>
 
 <h1 align="center">👋 ¡Hola! Soy Juan Carlos "Paco" Fedyna</h1>
 <h3 align="center">💻 Desarrollador Web Full Stack | Apasionado por tecnologías emergentes y desarrollo eficiente</h3>
@@ -21,13 +22,15 @@
 
 ### 🔍 Sobre mí
 
-👀 Me apasiona el desarrollo web full stack y seguir aprendiendo cada día.
-🌱 Actualmente profundizando conocimientos en SCRUM, metodologías ágiles y comunicación efectiva.
-🗣️ Valoro la escucha activa como base para construir relaciones de trabajo sólidas y colaborativas.
-🤝 Busco colaborar en proyectos donde pueda aplicar tanto mis soft skills como mis habilidades técnicas.
-💬 Creo firmemente en el poder del trabajo en equipo para lograr soluciones eficientes y sostenibles.
-📞 Teléfono: +54-9-11-3271-2055
+<p>👀 Me apasiona el desarrollo web full stack y seguir aprendiendo cada día.</p>
+<p>🌱 Actualmente profundizando conocimientos en SCRUM, metodologías ágiles y comunicación efectiva.</p>
+<p>🗣️ Valoro la escucha activa como base para construir relaciones de trabajo sólidas y colaborativas.</p>
+<p>🤝 Busco colaborar en proyectos donde pueda aplicar tanto mis soft skills como mis habilidades técnicas.</p>
+<p>💬 Creo firmemente en el poder del trabajo en equipo para lograr soluciones eficientes y sostenibles.</p>
+<p>📞 Teléfono: +54-9-11-3271-2055</p>
+
 ---
+
 ### ⚙️ Tecnologías y herramientas
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -42,21 +45,8 @@
 ---
 
 ### 📜 Certificaciones
-
-- Desarrollador Web Full Stack - Digital House
-- Diseño Web: HTML y CSS – Digital House
-- Programación Imperativa con JavaScript – Digital House
-- JavaScript para el DOM - Digital House
-- Diseño UX/UI - Digital House
-- Learning Agility – Digital House
-- Metodologías Ágiles y SCRUM – Digital House
-- Herramientas Colaborativas de Trabajo - Digital HouseDigital Houseos de trabajo
-- Comunicación Efectiva en equ
-- React.js
----
-
 ### 🧠 En aprendizaje
 - Bases de Datos en MySQL
 ---
 
-> “Creo en la eficiencia, el aprendizaje constante y el poder de la colaboración.” 
+> “Creo en la eficiencia, el aprendizaje constante y el poder de la colaboración.”
