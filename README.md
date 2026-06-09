@@ -1,6 +1,6 @@
 </pag>
 
-<h1 align="center">👋 ¡Hola! Soy Juan Carlos "Paco" Fedyna</h1>
+<h1 align="center">👋 ¡Hola! Soy Juan Carlos Fedyna</h1>
 <h3 align="center">💻 Desarrollador Web Full Stack | Apasionado por tecnologías emergentes y desarrollo eficiente</h3>
 
 <p align="center">
